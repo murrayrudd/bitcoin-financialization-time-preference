@@ -1,6 +1,6 @@
-# Same Bitcoin, different time horizons
+# Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience
 
-Self-contained model, saved results, and replication materials for Murray A. Rudd's **Bitcoin financialization and effective time preference**.
+Self-contained model, saved results, and replication materials for Murray A. Rudd's **Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience**.
 
 **Model version 0.5 · Replication package 0.5.1 · November 5, 2026.** This package supports manuscript draft v04 and includes the revised monochrome Figure 2. The package revision changes documentation and figure presentation; the scientific model remains version 0.5.
 
@@ -54,9 +54,9 @@ Figure 2 uses open circles for individual signed contributions and a solid diamo
 
 ## Research basis
 
-**Rudd, M. A. (2026).** *Bitcoin financialization and effective time preference*. Working paper, manuscript draft v04, November 5, 2026.
+**Rudd, M. A. (2026).** *Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience*. Working paper, manuscript draft v04, November 5, 2026.
 
-The title remains under editorial revision. This distribution identifies the draft supporting the results. An SSRN link can be added when available. The manuscript and third-party papers are not included.
+An SSRN link can be added when available. The manuscript and third-party papers are not included.
 
 ## Citation
 
@@ -65,7 +65,7 @@ Please cite the accompanying paper and identify **model version 0.5**, **replica
 ~~~bibtex
 @unpublished{Rudd2026BitcoinFinancialization,
   author = {Rudd, Murray A.},
-  title = {Bitcoin financialization and effective time preference},
+  title = {Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience},
   year = {2026},
   note = {Working paper, manuscript draft v04; model version 0.5}
 }

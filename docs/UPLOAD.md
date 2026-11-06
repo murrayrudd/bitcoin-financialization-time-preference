@@ -10,4 +10,4 @@ For browser upload, create an empty repository, choose Add file → Upload files
 
 For Git, initialize the extracted folder, add the files, commit, and push to the newly created repository. The package includes a replication workflow that runs when files reach GitHub.
 
-Before a formal release, update the paper title and SSRN citation in README.md and CITATION.cff when finalized. No repository URL or DOI is invented in this package.
+Before a formal release, add the SSRN DOI to README.md and CITATION.cff when available. No repository URL or DOI is invented in this package.

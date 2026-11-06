@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite the accompanying working paper and identify the model, package version, and repository commit."
-title: "Bitcoin financialization and effective time preference: Replication materials"
+title: "Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience: Replication materials"
 type: software
 repository-code: "https://github.com/murrayrudd/bitcoin-financialization-time-preference"
 version: 0.5.1
@@ -12,7 +12,7 @@ authors:
 license: MIT
 preferred-citation:
   type: unpublished
-  title: "Bitcoin financialization and effective time preference"
+  title: "Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience"
   authors:
     - family-names: Rudd
       given-names: Murray A.

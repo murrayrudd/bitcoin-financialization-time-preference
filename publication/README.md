@@ -1,6 +1,6 @@
 # Bitcoin financialization figure originals
 
-These four figures accompany draft v04 of *Bitcoin financialization and effective time preference* by Murray A. Rudd.
+These four figures accompany draft v04 of *Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience* by Murray A. Rudd.
 
 ## Formats
 

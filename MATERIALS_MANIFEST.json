@@ -14,8 +14,8 @@
     },
     {
       "path": "CITATION.cff",
-      "size_bytes": 815,
-      "sha256": "e379c98fbc62a7176ac2fd434e65998985fac10d4c39422851a82be935560880"
+      "size_bytes": 873,
+      "sha256": "d93b17af10fdebdd02e4f131f963d4152a1e0a7398f4cc9e0c4c78bbfc912e3d"
     },
     {
       "path": "LICENSE.md",
@@ -29,8 +29,8 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 6110,
-      "sha256": "b5462a62adcecee107bd61c9d9c715ced07e7d4def32c27f3a833e1066cde806"
+      "size_bytes": 6136,
+      "sha256": "eca01c56033c081bbdb0a8dd248c87a3884dd0ea04ac22aab3d8d71fcb54260a"
     },
     {
       "path": "docs/MANUSCRIPT_MAP.md",
@@ -49,8 +49,8 @@
     },
     {
       "path": "docs/UPLOAD.md",
-      "size_bytes": 1004,
-      "sha256": "e570ab26c77ffec26aa3cf4aa84286af93e35b078917bd3feb315589772adac4"
+      "size_bytes": 980,
+      "sha256": "8fa0f45bcbfe956123d521e12e608c4a6239814a02190d6cdb91e5197354b8c6"
     },
     {
       "path": "docs/VERIFICATION.json",
@@ -214,8 +214,8 @@
     },
     {
       "path": "publication/README.md",
-      "size_bytes": 2227,
-      "sha256": "01e86c64498680ad2574e7b2c0598850177b3661b4d19ab043e32ede83f64874"
+      "size_bytes": 2256,
+      "sha256": "cf2cf006d84d025a8c92e23d0ef5e2912c316edef15424d2bfbba93e42d5be1f"
     },
     {
       "path": "publication/data/complementarity_paths.csv",

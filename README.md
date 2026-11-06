@@ -2,7 +2,7 @@
 
 Self-contained model, saved results, and replication materials for Murray A. Rudd's **Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience**.
 
-**Model version 0.5 · Replication package 0.5.1 · November 5, 2026.** This package supports manuscript draft v04 and includes the revised monochrome Figure 2. The package revision changes documentation and figure presentation; the scientific model remains version 0.5.
+**Model version 0.5 · Replication package 0.5.1.**
 
 The study asks whether financialization can raise effective time preference relative to engaged independent holding when the same holder has the same Bitcoin exposure and baseline psychological patience. Institutional arrangements differ in independent control, operational assistance, monitoring incentives, and the consequences of financial review. Those features change attention allocation, maintained understanding, and decision pressure.
 
@@ -50,11 +50,9 @@ The full command uses a temporary copy, reruns the experiments and 19 numerical 
 | Numerical checks and package verification | [Model checks](model/tests/verify.py) · [Verification record](docs/VERIFICATION.json) |
 | Version history and distribution choices | [Provenance](docs/PROVENANCE.md) |
 
-Figure 2 uses open circles for individual signed contributions and a solid diamond for their sum. Horizontal lines connect contributions to zero; they are not uncertainty intervals.
-
 ## Research basis
 
-**Rudd, M. A. (2026).** *Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience*. Working paper, manuscript draft v04, November 5, 2026.
+**Rudd, M. A. (2026).** *Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience*. Working paper, 2026.
 
 An SSRN link can be added when available. The manuscript and third-party papers are not included.
 
@@ -67,7 +65,7 @@ Please cite the accompanying paper and identify **model version 0.5**, **replica
   author = {Rudd, Murray A.},
   title = {Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience},
   year = {2026},
-  note = {Working paper, manuscript draft v04; model version 0.5}
+  note = {Working paper; model version 0.5}
 }
 ~~~
 
@@ -75,14 +73,13 @@ Please cite the accompanying paper and identify **model version 0.5**, **replica
 
 ## License
 
-Original project code and associated software documentation are available under the [MIT License](LICENSE.md), following the author's recent replication repositories. See [license scope](LICENSE_SCOPE.md) for the distinction between software and scholarly material. Third-party works retain their source terms.
+Original project code and associated software documentation are available under the [MIT License](LICENSE.md). See [license scope](LICENSE_SCOPE.md) for the distinction between software and scholarly material. Third-party works retain their source terms.
 
 ## Author
 
-**Murray A. Rudd, Ph.D.** — Institutional economist and policy researcher  
-Futures Insight Research Ltd.
+**Murray A. Rudd, Ph.D.**  
+Futures Insight Research
 
-- Website: [The Bitcoin Distillery](https://www.murrayrudd.pro/)
 - ORCID: [0000-0001-9533-5070](https://orcid.org/0000-0001-9533-5070)
 - SSRN: [Author profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5958022)
 - Google Scholar: [Profile](https://scholar.google.co.uk/citations?hl=en&user=84qbofEAAAAJ)

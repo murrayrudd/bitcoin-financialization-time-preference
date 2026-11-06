@@ -1,0 +1,19 @@
+complementarity,commitment_strength,support_capacity_productivity,name,support_capacity_root,root_in_domain,infinite_capacity_gap
+0.0,0.0,2.5,Service with consequential monitoring,7.060867074633513,True,-0.04106588975836489
+0.0,0.0,2.5,Delegation with routine review,1.0390267046498702,True,-0.04106588975836489
+0.0,0.0,2.5,Service with monitoring but no added pressure,1.384506528608369,True,-0.04106588975836489
+0.0,0.25,2.5,Service with consequential monitoring,,False,0.05139315258559396
+0.0,0.25,2.5,Delegation with routine review,,False,0.0011607075032719072
+0.0,0.25,2.5,Service with monitoring but no added pressure,,False,0.027930877031109524
+0.0,0.75,2.5,Service with consequential monitoring,,False,0.23631123727351155
+0.0,0.75,2.5,Delegation with routine review,,False,0.08561390202654517
+0.0,0.75,2.5,Service with monitoring but no added pressure,,False,0.16592441061005814
+0.9,0.0,2.5,Service with consequential monitoring,6.471707620762309,True,-0.04219574488184796
+0.9,0.0,2.5,Delegation with routine review,0.9416652276895752,True,-0.04219574488184796
+0.9,0.0,2.5,Service with monitoring but no added pressure,1.2289838122778773,True,-0.04219574488184796
+0.9,0.25,2.5,Service with consequential monitoring,,False,0.03670605057164
+0.9,0.25,2.5,Delegation with routine review,5.771596272289877,True,-0.003903679329683496
+0.9,0.25,2.5,Service with monitoring but no added pressure,,False,0.01503074524718595
+0.9,0.75,2.5,Service with consequential monitoring,,False,0.19450964147861577
+0.9,0.75,2.5,Delegation with routine review,,False,0.07268045177464494
+0.9,0.75,2.5,Service with monitoring but no added pressure,,False,0.1294837255052535

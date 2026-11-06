@@ -1,0 +1,188 @@
+{
+  "version": "0.4",
+  "legacy_reproduction_cases": 105,
+  "legacy_maximum_error": 0.0,
+  "comparison": [
+    {
+      "previous_name": "Sovereignty-first holding",
+      "current_name": "Engaged independent holding",
+      "old_h": 0.7869368780291051,
+      "new_h": 0.7869368780291051,
+      "old_n": 0.036560022251383745,
+      "new_n": 0.036560022251383745,
+      "old_rate": 0.40283564302349545,
+      "new_rate": 0.39673118772262017,
+      "rate_change": -0.006104455300875278,
+      "percentage_change": -1.5153711958202365
+    },
+    {
+      "previous_name": "Stability-first service emphasis",
+      "current_name": "Service with consequential monitoring",
+      "old_h": 0.23313426658575795,
+      "new_h": 0.23313426658575795,
+      "old_n": 0.766865733414242,
+      "new_n": 0.766865733414242,
+      "old_rate": 0.7673511112818139,
+      "new_rate": 0.7673511112818139,
+      "rate_change": 0.0,
+      "percentage_change": 0.0
+    },
+    {
+      "previous_name": "Delegation with low monitoring incentives",
+      "current_name": "Delegation with routine review",
+      "old_h": 0.3713261961691576,
+      "new_h": 0.3713261961691576,
+      "old_n": 0.16918688318875374,
+      "new_n": 0.16918688318875374,
+      "old_rate": 0.516468637092044,
+      "new_rate": 0.4901593010641204,
+      "rate_change": -0.026309336027923624,
+      "percentage_change": -5.094082029076786
+    },
+    {
+      "previous_name": "Direct custody with trading emphasis",
+      "current_name": "Independent control with consequential monitoring",
+      "old_h": 0.5867454901676004,
+      "new_h": 0.5867454901676004,
+      "old_n": 0.41325450983239964,
+      "new_n": 0.41325450983239964,
+      "old_rate": 0.5909632268434659,
+      "new_rate": 0.5909632268434659,
+      "rate_change": 0.0,
+      "percentage_change": 0.0
+    },
+    {
+      "previous_name": "Self-custody with operational support",
+      "current_name": "Independent holding with operational support",
+      "old_h": 0.6620313057631558,
+      "new_h": 0.6620313057631558,
+      "old_n": 0.07916005285860818,
+      "new_n": 0.07916005285860818,
+      "old_rate": 0.41369004402583365,
+      "new_rate": 0.4054634389089822,
+      "rate_change": -0.008226605116851471,
+      "percentage_change": -1.9885915157140555
+    }
+  ],
+  "matched_reference_rate": 0.39673118772262017,
+  "matched_active_rate": 0.7673511112818139,
+  "active_to_holding_ratio": 1.9341839891304877,
+  "thresholds": [
+    {
+      "name": "Service with consequential monitoring",
+      "commitment_strength_crossover": null,
+      "gap_at_zero": 0.17109790998460306,
+      "gap_at_legacy_strength": 0.3706199235591937
+    },
+    {
+      "name": "Delegation with routine review",
+      "commitment_strength_crossover": 0.15765081575801115,
+      "gap_at_zero": -0.024865431868312138,
+      "gap_at_legacy_strength": 0.09342811334150025
+    },
+    {
+      "name": "Independent holding with operational support",
+      "commitment_strength_crossover": 0.5788300598461331,
+      "gap_at_zero": -0.029529071940142426,
+      "gap_at_legacy_strength": 0.008732251186362006
+    },
+    {
+      "name": "Service with monitoring but no added pressure",
+      "commitment_strength_crossover": 0.08158734482077803,
+      "gap_at_zero": -0.02159049672670621,
+      "gap_at_legacy_strength": 0.17688234952905013
+    }
+  ],
+  "pressure_loading_crossover_with_zero_commitment": 0.1965156128380096,
+  "joint_grid_records": 108,
+  "joint_grid_higher": 99,
+  "joint_grid_lower": 9,
+  "joint_grid_equal": 0,
+  "structural_counts": [
+    {
+      "name": "Service with consequential monitoring",
+      "commitment_strength": 0.0,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Service with consequential monitoring",
+      "commitment_strength": 0.25,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Service with consequential monitoring",
+      "commitment_strength": 0.5,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Service with consequential monitoring",
+      "commitment_strength": 0.75,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Delegation with routine review",
+      "commitment_strength": 0.0,
+      "cases": 16,
+      "higher": 0,
+      "lower": 16
+    },
+    {
+      "name": "Delegation with routine review",
+      "commitment_strength": 0.25,
+      "cases": 16,
+      "higher": 14,
+      "lower": 2
+    },
+    {
+      "name": "Delegation with routine review",
+      "commitment_strength": 0.5,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Delegation with routine review",
+      "commitment_strength": 0.75,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Service with monitoring but no added pressure",
+      "commitment_strength": 0.0,
+      "cases": 16,
+      "higher": 0,
+      "lower": 16
+    },
+    {
+      "name": "Service with monitoring but no added pressure",
+      "commitment_strength": 0.25,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Service with monitoring but no added pressure",
+      "commitment_strength": 0.5,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    },
+    {
+      "name": "Service with monitoring but no added pressure",
+      "commitment_strength": 0.75,
+      "cases": 16,
+      "higher": 16,
+      "lower": 0
+    }
+  ],
+  "maximum_grid_kkt": 2.015054789694659e-14
+}

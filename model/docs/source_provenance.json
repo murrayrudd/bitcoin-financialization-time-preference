@@ -1,0 +1,41 @@
+{
+  "scan_date": "2026-10-31",
+  "corpus_count": 36,
+  "corpus_scope": "36 relevant Fieldguides selected from a complete archive metadata inventory; not a systematic literature census.",
+  "complete_originals_reread_this_round": false,
+  "primary_checks": [
+    {
+      "source": "Lusardi, Michaud, and Mitchell 2017 published JPE copy",
+      "location": "pp. 445\u2013446 and baseline parameter section",
+      "check": "Costly knowledge, depreciating stock, instrumental return, common beta 0.96; no estimated engagement-to-patience effect."
+    },
+    {
+      "source": "Aghion and Tirole 1997",
+      "location": "pp. 8\u201310, equations 3\u20136",
+      "check": "Formal authority and information-acquisition incentives; conditional on the model's payoff and substitution structure."
+    },
+    {
+      "source": "Holmstrom and Milgrom 1991; Stein 2005",
+      "location": "Previously inspected full texts and current archive Fieldguides",
+      "check": "Task substitution and institutional horizons are theoretical precedents, not measured holder time preference."
+    }
+  ],
+  "version_controls": [
+    "Calcagno\u2013Monticone guide is February 2013 WP, distinct from 2015 article.",
+    "Stein 2004 and 2005 are related versions, not independent evidence.",
+    "Galor\u2013Ozak guide is August 2014 WP; Cohen is January 2019 manuscript.",
+    "Lusardi guide describes author manuscript; this round's original-text check used the published JPE copy."
+  ],
+  "maintained_hypotheses": [
+    "Bitcoin engagement yields A; A alters effective temporal weights.",
+    "Consequential monitoring raises v; D buffers its temporal-weighting effect.",
+    "The holder's practical competence and monetary-commitment engagement are jointly produced by h.",
+    "Benchmark parameter values and monitoring elasticities are illustrative."
+  ],
+  "no_empirical_estimation": true,
+  "inherited_from_version": "0.3",
+  "v04_status": "Evidence ledger and fieldguide records retained from v0.3; no new literature scan or empirical calibration in v0.4.",
+  "v04_qualification": "Financial monitoring adds pressure only through an explicit arrangement loading. Commitment strength is varied including zero. Stake benefit growth is a sensitivity, not an empirical claim.",
+  "v05_status": "Inherited 36-record evidence ledger, inventory, and prior primary-source checks. No new literature scan, original-paper verification, or empirical calibration in v0.5.",
+  "v05_qualification": "Activity complementarity is a tested cost hypothesis; operational assistance and pressure-buffer capacity are separate. All temporal links remain maintained hypotheses."
+}

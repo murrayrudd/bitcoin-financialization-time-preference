@@ -1,0 +1,385 @@
+loss_form,turnover_decay,anchor_form,pressure_form,complementarity,commitment_strength,support_capacity_productivity,name,rate,reference_rate,rate_difference
+exponential,0.0,rational,power,0.0,0.0,0.0,Service with consequential monitoring,3.322736573235641,1.041065889758365,2.281670683477276
+exponential,0.0,rational,power,0.0,0.0,0.0,Delegation with routine review,1.1225439051909853,1.041065889758365,0.08147801543262045
+exponential,0.0,rational,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.213213600659373,1.041065889758365,0.1721477109010081
+exponential,0.0,rational,power,0.0,0.0,2.5,Service with consequential monitoring,1.212163799742968,1.041065889758365,0.17109790998460306
+exponential,0.0,rational,power,0.0,0.0,2.5,Delegation with routine review,1.0162004578900528,1.041065889758365,-0.024865431868312138
+exponential,0.0,rational,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0194753930316587,1.041065889758365,-0.02159049672670621
+exponential,0.0,rational,power,0.0,0.75,0.0,Service with consequential monitoring,1.7373772790647684,0.3733925822391349,1.3639846968256335
+exponential,0.0,rational,power,0.0,0.75,0.0,Delegation with routine review,0.5030718641720175,0.3733925822391349,0.12967928193288264
+exponential,0.0,rational,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.6343595701856654,0.3733925822391349,0.26096698794653045
+exponential,0.0,rational,power,0.0,0.75,2.5,Service with consequential monitoring,0.6338106550912835,0.3733925822391349,0.26041807285214863
+exponential,0.0,rational,power,0.0,0.75,2.5,Delegation with routine review,0.4554136870363474,0.3733925822391349,0.08202110479721247
+exponential,0.0,rational,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5330586236314371,0.3733925822391349,0.15966604139230217
+exponential,0.0,rational,power,0.9,0.0,0.0,Service with consequential monitoring,2.7123135693241096,1.042195744881848,1.6701178244422616
+exponential,0.0,rational,power,0.9,0.0,0.0,Delegation with routine review,1.1122427325970157,1.042195744881848,0.07004698771516771
+exponential,0.0,rational,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1721445353777975,1.042195744881848,0.12994879049594954
+exponential,0.0,rational,power,0.9,0.0,2.5,Service with consequential monitoring,1.1811465239048402,1.042195744881848,0.13895077902299224
+exponential,0.0,rational,power,0.9,0.0,2.5,Delegation with routine review,1.0156843921413388,1.042195744881848,-0.026511352740509198
+exponential,0.0,rational,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0182112580029432,1.042195744881848,-0.023984486878904754
+exponential,0.0,rational,power,0.9,0.75,0.0,Service with consequential monitoring,1.3310599864205792,0.37545890851088565,0.9556010779096935
+exponential,0.0,rational,power,0.9,0.75,0.0,Delegation with routine review,0.48779864865495,0.37545890851088565,0.11233974014406434
+exponential,0.0,rational,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.5752265176816254,0.37545890851088565,0.1997676091707397
+exponential,0.0,rational,power,0.9,0.75,2.5,Service with consequential monitoring,0.5796442173392462,0.37545890851088565,0.20418530882836056
+exponential,0.0,rational,power,0.9,0.75,2.5,Delegation with routine review,0.44545085297129927,0.37545890851088565,0.06999194446041362
+exponential,0.0,rational,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.4996842100334329,0.37545890851088565,0.12422530152254724
+exponential,0.0,rational,bounded,0.0,0.0,0.0,Service with consequential monitoring,2.469450163758436,1.040648572311025,1.4288015914474108
+exponential,0.0,rational,bounded,0.0,0.0,0.0,Delegation with routine review,1.1189012493345982,1.040648572311025,0.07825267702357319
+exponential,0.0,rational,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.2024237276989753,1.040648572311025,0.1617751553879503
+exponential,0.0,rational,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2014772547600494,1.040648572311025,0.16082868244902437
+exponential,0.0,rational,bounded,0.0,0.0,2.5,Delegation with routine review,1.0161351088521748,1.040648572311025,-0.024513463458850193
+exponential,0.0,rational,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0193810297387784,1.040648572311025,-0.02126754257224661
+exponential,0.0,rational,bounded,0.0,0.75,0.0,Service with consequential monitoring,1.2912147898979456,0.3732429056040549,0.9179718842938906
+exponential,0.0,rational,bounded,0.0,0.75,0.0,Delegation with routine review,0.5014393955765928,0.3732429056040549,0.1281964899725379
+exponential,0.0,rational,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.6287178108369441,0.3732429056040549,0.25547490523288924
+exponential,0.0,rational,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.6282229234021156,0.3732429056040549,0.25498001779806073
+exponential,0.0,rational,bounded,0.0,0.75,2.5,Delegation with routine review,0.4553844006430446,0.3732429056040549,0.08214149503898971
+exponential,0.0,rational,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5330092833851026,0.3732429056040549,0.15976637778104769
+exponential,0.0,rational,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.1990333153414148,1.041755271189205,1.1572780441522097
+exponential,0.0,rational,bounded,0.9,0.0,0.0,Delegation with routine review,1.1091790926710503,1.041755271189205,0.06742382148184523
+exponential,0.0,rational,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1650417754400346,1.041755271189205,0.12328650425082954
+exponential,0.0,rational,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.17329842220948,1.041755271189205,0.13154315102027492
+exponential,0.0,rational,bounded,0.9,0.0,2.5,Delegation with routine review,1.0156231323079403,1.041755271189205,-0.026132138881264755
+exponential,0.0,rational,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.018128721297739,1.041755271189205,-0.023626549891466064
+exponential,0.0,rational,bounded,0.9,0.75,0.0,Service with consequential monitoring,1.0791691963500167,0.37530022452788186,0.7038689718221349
+exponential,0.0,rational,bounded,0.9,0.75,0.0,Delegation with routine review,0.48645502161019344,0.37530022452788186,0.11115479708231157
+exponential,0.0,rational,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.5717408589240123,0.37530022452788186,0.1964406343961304
+exponential,0.0,rational,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.5757927842843813,0.37530022452788186,0.20049255975649943
+exponential,0.0,rational,bounded,0.9,0.75,2.5,Delegation with routine review,0.4454239861165446,0.37530022452788186,0.07012376158866274
+exponential,0.0,rational,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.49964370538568464,0.37530022452788186,0.12434348085780278
+exponential,0.0,exponential,power,0.0,0.0,0.0,Service with consequential monitoring,3.322736573235641,1.041065889758365,2.281670683477276
+exponential,0.0,exponential,power,0.0,0.0,0.0,Delegation with routine review,1.1225439051909853,1.041065889758365,0.08147801543262045
+exponential,0.0,exponential,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.213213600659373,1.041065889758365,0.1721477109010081
+exponential,0.0,exponential,power,0.0,0.0,2.5,Service with consequential monitoring,1.212163799742968,1.041065889758365,0.17109790998460306
+exponential,0.0,exponential,power,0.0,0.0,2.5,Delegation with routine review,1.0162004578900528,1.041065889758365,-0.024865431868312138
+exponential,0.0,exponential,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0194753930316587,1.041065889758365,-0.02159049672670621
+exponential,0.0,exponential,power,0.0,0.75,0.0,Service with consequential monitoring,1.2643849537856564,0.2624010989688227,1.0019838548168338
+exponential,0.0,exponential,power,0.0,0.75,0.0,Delegation with routine review,0.3326089677701052,0.2624010989688227,0.07020786880128249
+exponential,0.0,exponential,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.4616583314963396,0.2624010989688227,0.19925723252751693
+exponential,0.0,exponential,power,0.0,0.75,2.5,Service with consequential monitoring,0.4612588558069742,0.2624010989688227,0.1988577568381515
+exponential,0.0,exponential,power,0.0,0.75,2.5,Delegation with routine review,0.3010994793017143,0.2624010989688227,0.038698380332891635
+exponential,0.0,exponential,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.3879360639320034,0.2624010989688227,0.12553496496318073
+exponential,0.0,exponential,power,0.9,0.0,0.0,Service with consequential monitoring,2.7123135693241096,1.042195744881848,1.6701178244422616
+exponential,0.0,exponential,power,0.9,0.0,0.0,Delegation with routine review,1.1122427325970157,1.042195744881848,0.07004698771516771
+exponential,0.0,exponential,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1721445353777975,1.042195744881848,0.12994879049594954
+exponential,0.0,exponential,power,0.9,0.0,2.5,Service with consequential monitoring,1.1811465239048402,1.042195744881848,0.13895077902299224
+exponential,0.0,exponential,power,0.9,0.0,2.5,Delegation with routine review,1.0156843921413388,1.042195744881848,-0.026511352740509198
+exponential,0.0,exponential,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0182112580029432,1.042195744881848,-0.023984486878904754
+exponential,0.0,exponential,power,0.9,0.75,0.0,Service with consequential monitoring,0.9234006580812693,0.26291008689492895,0.6604905711863402
+exponential,0.0,exponential,power,0.9,0.75,0.0,Delegation with routine review,0.3205474828862802,0.26291008689492895,0.05763739599135126
+exponential,0.0,exponential,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.3990537995221321,0.26291008689492895,0.13614371262720315
+exponential,0.0,exponential,power,0.9,0.75,2.5,Service with consequential monitoring,0.4021185049543962,0.26291008689492895,0.13920841805946726
+exponential,0.0,exponential,power,0.9,0.75,2.5,Delegation with routine review,0.2927194449251116,0.26291008689492895,0.029809358030182642
+exponential,0.0,exponential,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.34664758394434847,0.26291008689492895,0.08373749704941952
+exponential,0.0,exponential,bounded,0.0,0.0,0.0,Service with consequential monitoring,2.469450163758436,1.040648572311025,1.4288015914474108
+exponential,0.0,exponential,bounded,0.0,0.0,0.0,Delegation with routine review,1.1189012493345982,1.040648572311025,0.07825267702357319
+exponential,0.0,exponential,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.2024237276989753,1.040648572311025,0.1617751553879503
+exponential,0.0,exponential,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2014772547600494,1.040648572311025,0.16082868244902437
+exponential,0.0,exponential,bounded,0.0,0.0,2.5,Delegation with routine review,1.0161351088521748,1.040648572311025,-0.024513463458850193
+exponential,0.0,exponential,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0193810297387784,1.040648572311025,-0.02126754257224661
+exponential,0.0,exponential,bounded,0.0,0.75,0.0,Service with consequential monitoring,0.9396879837931896,0.2622959139292607,0.6773920698639289
+exponential,0.0,exponential,bounded,0.0,0.75,0.0,Delegation with routine review,0.33152965140775004,0.2622959139292607,0.06923373747848932
+exponential,0.0,exponential,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.4575525130771862,0.2622959139292607,0.19525659914792548
+exponential,0.0,exponential,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.4571923562857082,0.2622959139292607,0.19489644235644749
+exponential,0.0,exponential,bounded,0.0,0.75,2.5,Delegation with routine review,0.301080116427859,0.2622959139292607,0.038784202498598264
+exponential,0.0,exponential,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.3879001563223938,0.2622959139292607,0.12560424239313306
+exponential,0.0,exponential,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.1990333153414148,1.041755271189205,1.1572780441522097
+exponential,0.0,exponential,bounded,0.9,0.0,0.0,Delegation with routine review,1.1091790926710503,1.041755271189205,0.06742382148184523
+exponential,0.0,exponential,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1650417754400346,1.041755271189205,0.12328650425082954
+exponential,0.0,exponential,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.17329842220948,1.041755271189205,0.13154315102027492
+exponential,0.0,exponential,bounded,0.9,0.0,2.5,Delegation with routine review,1.0156231323079403,1.041755271189205,-0.026132138881264755
+exponential,0.0,exponential,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.018128721297739,1.041755271189205,-0.023626549891466064
+exponential,0.0,exponential,bounded,0.9,0.75,0.0,Service with consequential monitoring,0.7486556250333942,0.26279897055485907,0.48585665447853515
+exponential,0.0,exponential,bounded,0.9,0.75,0.0,Delegation with routine review,0.31966454426330076,0.26279897055485907,0.0568655737084417
+exponential,0.0,exponential,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.39663568191401277,0.26279897055485907,0.1338367113591537
+exponential,0.0,exponential,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.3994466375301624,0.26279897055485907,0.13664766697530334
+exponential,0.0,exponential,bounded,0.9,0.75,2.5,Delegation with routine review,0.29270178988918966,0.26279897055485907,0.029902819334330588
+exponential,0.0,exponential,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.3466194845207555,0.26279897055485907,0.08382051396589646
+exponential,0.1,rational,power,0.0,0.0,0.0,Service with consequential monitoring,3.322736573235641,1.041065889758365,2.281670683477276
+exponential,0.1,rational,power,0.0,0.0,0.0,Delegation with routine review,1.1225439051909853,1.041065889758365,0.08147801543262045
+exponential,0.1,rational,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.213213600659373,1.041065889758365,0.1721477109010081
+exponential,0.1,rational,power,0.0,0.0,2.5,Service with consequential monitoring,1.212163799742968,1.041065889758365,0.17109790998460306
+exponential,0.1,rational,power,0.0,0.0,2.5,Delegation with routine review,1.0162004578900528,1.041065889758365,-0.024865431868312138
+exponential,0.1,rational,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0194753930316587,1.041065889758365,-0.02159049672670621
+exponential,0.1,rational,power,0.0,0.75,0.0,Service with consequential monitoring,2.1034332179444273,0.39673118772262017,1.7067020302218072
+exponential,0.1,rational,power,0.0,0.75,0.0,Delegation with routine review,0.5414535406967244,0.39673118772262017,0.14472235297410418
+exponential,0.1,rational,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.6826214243843426,0.39673118772262017,0.2858902366617224
+exponential,0.1,rational,power,0.0,0.75,2.5,Service with consequential monitoring,0.7673511112818139,0.39673118772262017,0.3706199235591937
+exponential,0.1,rational,power,0.0,0.75,2.5,Delegation with routine review,0.4901593010641204,0.39673118772262017,0.09342811334150025
+exponential,0.1,rational,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5736135372516703,0.39673118772262017,0.17688234952905013
+exponential,0.1,rational,power,0.9,0.0,0.0,Service with consequential monitoring,2.7123135693241096,1.042195744881848,1.6701178244422616
+exponential,0.1,rational,power,0.9,0.0,0.0,Delegation with routine review,1.1122427325970157,1.042195744881848,0.07004698771516771
+exponential,0.1,rational,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1721445353777975,1.042195744881848,0.12994879049594954
+exponential,0.1,rational,power,0.9,0.0,2.5,Service with consequential monitoring,1.1811465239048402,1.042195744881848,0.13895077902299224
+exponential,0.1,rational,power,0.9,0.0,2.5,Delegation with routine review,1.0156843921413388,1.042195744881848,-0.026511352740509198
+exponential,0.1,rational,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0182112580029432,1.042195744881848,-0.023984486878904754
+exponential,0.1,rational,power,0.9,0.75,0.0,Service with consequential monitoring,1.6100405740954935,0.3990945023434073,1.2109460717520861
+exponential,0.1,rational,power,0.9,0.75,0.0,Delegation with routine review,0.5247282641390941,0.3990945023434073,0.1256337617956868
+exponential,0.1,rational,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.6195700812924881,0.3990945023434073,0.22047557894908082
+exponential,0.1,rational,power,0.9,0.75,2.5,Service with consequential monitoring,0.7011334710508914,0.3990945023434073,0.3020389687074841
+exponential,0.1,rational,power,0.9,0.75,2.5,Delegation with routine review,0.4791744575009019,0.3990945023434073,0.08007995515749455
+exponential,0.1,rational,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.5382043023307513,0.3990945023434073,0.13910979998734402
+exponential,0.1,rational,bounded,0.0,0.0,0.0,Service with consequential monitoring,2.469450163758436,1.040648572311025,1.4288015914474108
+exponential,0.1,rational,bounded,0.0,0.0,0.0,Delegation with routine review,1.1189012493345982,1.040648572311025,0.07825267702357319
+exponential,0.1,rational,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.2024237276989753,1.040648572311025,0.1617751553879503
+exponential,0.1,rational,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2014772547600494,1.040648572311025,0.16082868244902437
+exponential,0.1,rational,bounded,0.0,0.0,2.5,Delegation with routine review,1.0161351088521748,1.040648572311025,-0.024513463458850193
+exponential,0.1,rational,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0193810297387784,1.040648572311025,-0.02126754257224661
+exponential,0.1,rational,bounded,0.0,0.75,0.0,Service with consequential monitoring,1.5632667200727348,0.3965721556688671,1.1666945644038678
+exponential,0.1,rational,bounded,0.0,0.75,0.0,Delegation with routine review,0.53969652353075,0.3965721556688671,0.14312436786188293
+exponential,0.1,rational,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.6765504419578764,0.3965721556688671,0.2799782862890093
+exponential,0.1,rational,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.7605860749309968,0.3965721556688671,0.3640139192621297
+exponential,0.1,rational,bounded,0.0,0.75,2.5,Delegation with routine review,0.49012778027658016,0.3965721556688671,0.09355562460771305
+exponential,0.1,rational,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5735604432166541,0.3965721556688671,0.176988287547787
+exponential,0.1,rational,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.1990333153414148,1.041755271189205,1.1572780441522097
+exponential,0.1,rational,bounded,0.9,0.0,0.0,Delegation with routine review,1.1091790926710503,1.041755271189205,0.06742382148184523
+exponential,0.1,rational,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1650417754400346,1.041755271189205,0.12328650425082954
+exponential,0.1,rational,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.17329842220948,1.041755271189205,0.13154315102027492
+exponential,0.1,rational,bounded,0.9,0.0,2.5,Delegation with routine review,1.0156231323079403,1.041755271189205,-0.026132138881264755
+exponential,0.1,rational,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.018128721297739,1.041755271189205,-0.023626549891466064
+exponential,0.1,rational,bounded,0.9,0.75,0.0,Service with consequential monitoring,1.3053552883893453,0.3989258290111432,0.9064294593782021
+exponential,0.1,rational,bounded,0.9,0.75,0.0,Delegation with routine review,0.5232829155535876,0.3989258290111432,0.12435708654244443
+exponential,0.1,rational,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.615815717031751,0.3989258290111432,0.21688988802060777
+exponential,0.1,rational,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.6964748053633889,0.3989258290111432,0.2975489763522457
+exponential,0.1,rational,bounded,0.9,0.75,2.5,Delegation with routine review,0.47914555664581104,0.3989258290111432,0.08021972763466784
+exponential,0.1,rational,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.538160675225382,0.3989258290111432,0.13923484621423882
+exponential,0.1,exponential,power,0.0,0.0,0.0,Service with consequential monitoring,3.322736573235641,1.041065889758365,2.281670683477276
+exponential,0.1,exponential,power,0.0,0.0,0.0,Delegation with routine review,1.1225439051909853,1.041065889758365,0.08147801543262045
+exponential,0.1,exponential,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.213213600659373,1.041065889758365,0.1721477109010081
+exponential,0.1,exponential,power,0.0,0.0,2.5,Service with consequential monitoring,1.212163799742968,1.041065889758365,0.17109790998460306
+exponential,0.1,exponential,power,0.0,0.0,2.5,Delegation with routine review,1.0162004578900528,1.041065889758365,-0.024865431868312138
+exponential,0.1,exponential,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0194753930316587,1.041065889758365,-0.02159049672670621
+exponential,0.1,exponential,power,0.0,0.75,0.0,Service with consequential monitoring,1.786776260065821,0.26721616220605937,1.5195600978597616
+exponential,0.1,exponential,power,0.0,0.75,0.0,Delegation with routine review,0.37135013803319916,0.26721616220605937,0.10413397582713979
+exponential,0.1,exponential,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.5279526540665151,0.26721616220605937,0.2607364918604558
+exponential,0.1,exponential,power,0.0,0.75,2.5,Service with consequential monitoring,0.6518318419033806,0.26721616220605937,0.38461567969732124
+exponential,0.1,exponential,power,0.0,0.75,2.5,Delegation with routine review,0.33617053066861347,0.26721616220605937,0.0689543684625541
+exponential,0.1,exponential,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.44364383915086436,0.26721616220605937,0.176427676944805
+exponential,0.1,exponential,power,0.9,0.0,0.0,Service with consequential monitoring,2.7123135693241096,1.042195744881848,1.6701178244422616
+exponential,0.1,exponential,power,0.9,0.0,0.0,Delegation with routine review,1.1122427325970157,1.042195744881848,0.07004698771516771
+exponential,0.1,exponential,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1721445353777975,1.042195744881848,0.12994879049594954
+exponential,0.1,exponential,power,0.9,0.0,2.5,Service with consequential monitoring,1.1811465239048402,1.042195744881848,0.13895077902299224
+exponential,0.1,exponential,power,0.9,0.0,2.5,Delegation with routine review,1.0156843921413388,1.042195744881848,-0.026511352740509198
+exponential,0.1,exponential,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0182112580029432,1.042195744881848,-0.023984486878904754
+exponential,0.1,exponential,power,0.9,0.75,0.0,Service with consequential monitoring,1.301442539054236,0.2680842453476976,1.0333582937065384
+exponential,0.1,exponential,power,0.9,0.75,0.0,Delegation with routine review,0.3551253639205806,0.2680842453476976,0.08704111857288299
+exponential,0.1,exponential,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.4548855273021252,0.2680842453476976,0.18680128195442763
+exponential,0.1,exponential,power,0.9,0.75,2.5,Service with consequential monitoring,0.5667465400944989,0.2680842453476976,0.2986622947468013
+exponential,0.1,exponential,power,0.9,0.75,2.5,Delegation with routine review,0.3242954786905608,0.2680842453476976,0.05621123334286321
+exponential,0.1,exponential,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.39514714356650865,0.2680842453476976,0.12706289821881106
+exponential,0.1,exponential,bounded,0.0,0.0,0.0,Service with consequential monitoring,2.469450163758436,1.040648572311025,1.4288015914474108
+exponential,0.1,exponential,bounded,0.0,0.0,0.0,Delegation with routine review,1.1189012493345982,1.040648572311025,0.07825267702357319
+exponential,0.1,exponential,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.2024237276989753,1.040648572311025,0.1617751553879503
+exponential,0.1,exponential,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2014772547600494,1.040648572311025,0.16082868244902437
+exponential,0.1,exponential,bounded,0.0,0.0,2.5,Delegation with routine review,1.0161351088521748,1.040648572311025,-0.024513463458850193
+exponential,0.1,exponential,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0193810297387784,1.040648572311025,-0.02126754257224661
+exponential,0.1,exponential,bounded,0.0,0.75,0.0,Service with consequential monitoring,1.327927998734648,0.2671090470197904,1.0608189517148576
+exponential,0.1,exponential,bounded,0.0,0.75,0.0,Delegation with routine review,0.3701451065428303,0.2671090470197904,0.1030360595230399
+exponential,0.1,exponential,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.5232572384666682,0.2671090470197904,0.2561481914468778
+exponential,0.1,exponential,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.6460852338119031,0.2671090470197904,0.3789761867921127
+exponential,0.1,exponential,bounded,0.0,0.75,2.5,Delegation with routine review,0.3361489124725464,0.2671090470197904,0.06903986545275603
+exponential,0.1,exponential,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.44360277519403474,0.2671090470197904,0.17649372817424436
+exponential,0.1,exponential,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.1990333153414148,1.041755271189205,1.1572780441522097
+exponential,0.1,exponential,bounded,0.9,0.0,0.0,Delegation with routine review,1.1091790926710503,1.041755271189205,0.06742382148184523
+exponential,0.1,exponential,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.1650417754400346,1.041755271189205,0.12328650425082954
+exponential,0.1,exponential,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.17329842220948,1.041755271189205,0.13154315102027492
+exponential,0.1,exponential,bounded,0.9,0.0,2.5,Delegation with routine review,1.0156231323079403,1.041755271189205,-0.026132138881264755
+exponential,0.1,exponential,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.018128721297739,1.041755271189205,-0.023626549891466064
+exponential,0.1,exponential,bounded,0.9,0.75,0.0,Service with consequential monitoring,1.0551565769351496,0.267970942200887,0.7871856347342626
+exponential,0.1,exponential,bounded,0.9,0.75,0.0,Delegation with routine review,0.35414718154029234,0.267970942200887,0.08617623933940532
+exponential,0.1,exponential,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.4521290901887207,0.267970942200887,0.1841581479878337
+exponential,0.1,exponential,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.5629808053679972,0.267970942200887,0.2950098631671102
+exponential,0.1,exponential,bounded,0.9,0.75,2.5,Delegation with routine review,0.32427591918255794,0.267970942200887,0.05630497698167092
+exponential,0.1,exponential,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.39511511274476663,0.267970942200887,0.1271441705438796
+hyperbolic,0.0,rational,power,0.0,0.0,0.0,Service with consequential monitoring,5.19276669646117,1.054473762668831,4.138292933792339
+hyperbolic,0.0,rational,power,0.0,0.0,0.0,Delegation with routine review,1.1864537581645225,1.054473762668831,0.1319799954956915
+hyperbolic,0.0,rational,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3492411725813542,1.054473762668831,0.29476740991252326
+hyperbolic,0.0,rational,power,0.0,0.0,2.5,Service with consequential monitoring,1.2680678451538183,1.054473762668831,0.21359408248498735
+hyperbolic,0.0,rational,power,0.0,0.0,2.5,Delegation with routine review,1.0186839149167408,1.054473762668831,-0.035789847752090154
+hyperbolic,0.0,rational,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0223290097805573,1.054473762668831,-0.032144752888273675
+hyperbolic,0.0,rational,power,0.0,0.75,0.0,Service with consequential monitoring,3.2089682738049903,0.3970546657756457,2.8119136080293448
+hyperbolic,0.0,rational,power,0.0,0.75,0.0,Delegation with routine review,0.5958394192196319,0.3970546657756457,0.19878475344398622
+hyperbolic,0.0,rational,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.8337890703766158,0.3970546657756457,0.43673440460097007
+hyperbolic,0.0,rational,power,0.0,0.75,2.5,Service with consequential monitoring,0.7836264792916622,0.3970546657756457,0.3865718135160165
+hyperbolic,0.0,rational,power,0.0,0.75,2.5,Delegation with routine review,0.5115850727898361,0.3970546657756457,0.11453040701419043
+hyperbolic,0.0,rational,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.6317675238542871,0.3970546657756457,0.23471285807864145
+hyperbolic,0.0,rational,power,0.9,0.0,0.0,Service with consequential monitoring,3.5903574592930307,1.054685935855303,2.5356715234377276
+hyperbolic,0.0,rational,power,0.9,0.0,0.0,Delegation with routine review,1.1603584296386562,1.054685935855303,0.1056724937833533
+hyperbolic,0.0,rational,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2307045347856882,1.054685935855303,0.1760185989303853
+hyperbolic,0.0,rational,power,0.9,0.0,2.5,Service with consequential monitoring,1.2238705116307926,1.054685935855303,0.16918457577548973
+hyperbolic,0.0,rational,power,0.9,0.0,2.5,Delegation with routine review,1.0177910381004833,1.054685935855303,-0.03689489775481958
+hyperbolic,0.0,rational,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0199385386185704,1.054685935855303,-0.03474739723673248
+hyperbolic,0.0,rational,power,0.9,0.75,0.0,Service with consequential monitoring,1.924212693466011,0.3974161742363236,1.5267965192296875
+hyperbolic,0.0,rational,power,0.9,0.75,0.0,Delegation with routine review,0.5582105719502736,0.3974161742363236,0.16079439771395
+hyperbolic,0.0,rational,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.6595825943768585,0.3974161742363236,0.26216642014053493
+hyperbolic,0.0,rational,power,0.9,0.75,2.5,Service with consequential monitoring,0.6559199746374078,0.3974161742363236,0.2585038004010842
+hyperbolic,0.0,rational,power,0.9,0.75,2.5,Delegation with routine review,0.48962605259898595,0.3974161742363236,0.09220987836266237
+hyperbolic,0.0,rational,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.5466248708705104,0.3974161742363236,0.1492086966341868
+hyperbolic,0.0,rational,bounded,0.0,0.0,0.0,Service with consequential monitoring,3.047057777574561,1.0537418820369664,1.9933158955375945
+hyperbolic,0.0,rational,bounded,0.0,0.0,0.0,Delegation with routine review,1.1781495928871981,1.0537418820369664,0.12440771085023172
+hyperbolic,0.0,rational,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3211973387753737,1.0537418820369664,0.2674554567384073
+hyperbolic,0.0,rational,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2512311002349188,1.0537418820369664,0.1974892181979524
+hyperbolic,0.0,rational,bounded,0.0,0.0,2.5,Delegation with routine review,1.0185970484987774,1.0537418820369664,-0.03514483353818898
+hyperbolic,0.0,rational,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0222050555548916,1.0537418820369664,-0.03153682648207479
+hyperbolic,0.0,rational,bounded,0.0,0.75,0.0,Service with consequential monitoring,1.8829869139607367,0.39677908128036415,1.4862078326803725
+hyperbolic,0.0,rational,bounded,0.0,0.75,0.0,Delegation with routine review,0.5916690510262694,0.39677908128036415,0.19488996974590528
+hyperbolic,0.0,rational,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.816458853515423,0.39677908128036415,0.41967977223505887
+hyperbolic,0.0,rational,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.773221894715252,0.39677908128036415,0.3764428134348879
+hyperbolic,0.0,rational,bounded,0.0,0.75,2.5,Delegation with routine review,0.5115414483032745,0.39677908128036415,0.11476236702291037
+hyperbolic,0.0,rational,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.6316909239989852,0.39677908128036415,0.23491184271862103
+hyperbolic,0.0,rational,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.5722105972509155,1.053948381423793,1.5182622158271224
+hyperbolic,0.0,rational,bounded,0.9,0.0,0.0,Delegation with routine review,1.154177513645221,1.053948381423793,0.10022913222142793
+hyperbolic,0.0,rational,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2181239865736688,1.053948381423793,0.16417560514987573
+hyperbolic,0.0,rational,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.212005089658261,1.053948381423793,0.15805670823446794
+hyperbolic,0.0,rational,bounded,0.9,0.0,2.5,Delegation with routine review,1.0177122582352063,1.053948381423793,-0.03623612318858682
+hyperbolic,0.0,rational,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0198396452353942,1.053948381423793,-0.034108736188398936
+hyperbolic,0.0,rational,bounded,0.9,0.75,0.0,Service with consequential monitoring,1.3785480520016502,0.39713825637424083,0.9814097956274094
+hyperbolic,0.0,rational,bounded,0.9,0.75,0.0,Delegation with routine review,0.5552371349813652,0.39713825637424083,0.15809887860712435
+hyperbolic,0.0,rational,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.6528401875734158,0.39713825637424083,0.25570193119917495
+hyperbolic,0.0,rational,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.64956083189696,0.39713825637424083,0.2524225755227192
+hyperbolic,0.0,rational,bounded,0.9,0.75,2.5,Delegation with routine review,0.48958815417679913,0.39713825637424083,0.0924498978025583
+hyperbolic,0.0,rational,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.5465718700466746,0.39713825637424083,0.1494336136724338
+hyperbolic,0.0,exponential,power,0.0,0.0,0.0,Service with consequential monitoring,5.19276669646117,1.054473762668831,4.138292933792339
+hyperbolic,0.0,exponential,power,0.0,0.0,0.0,Delegation with routine review,1.1864537581645225,1.054473762668831,0.1319799954956915
+hyperbolic,0.0,exponential,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3492411725813542,1.054473762668831,0.29476740991252326
+hyperbolic,0.0,exponential,power,0.0,0.0,2.5,Service with consequential monitoring,1.2680678451538183,1.054473762668831,0.21359408248498735
+hyperbolic,0.0,exponential,power,0.0,0.0,2.5,Delegation with routine review,1.0186839149167408,1.054473762668831,-0.035789847752090154
+hyperbolic,0.0,exponential,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0223290097805573,1.054473762668831,-0.032144752888273675
+hyperbolic,0.0,exponential,power,0.0,0.75,0.0,Service with consequential monitoring,2.677205717278614,0.26935164047169646,2.4078540768069177
+hyperbolic,0.0,exponential,power,0.0,0.75,0.0,Delegation with routine review,0.4202362415635633,0.26935164047169646,0.15088460109186685
+hyperbolic,0.0,exponential,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.6956207340653656,0.26935164047169646,0.42626909359366916
+hyperbolic,0.0,exponential,power,0.0,0.75,2.5,Service with consequential monitoring,0.6537706551030991,0.26935164047169646,0.3844190146314026
+hyperbolic,0.0,exponential,power,0.0,0.75,2.5,Delegation with routine review,0.36081296620285647,0.26935164047169646,0.09146132573116
+hyperbolic,0.0,exponential,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5270764565235573,0.26935164047169646,0.2577248160518608
+hyperbolic,0.0,exponential,power,0.9,0.0,0.0,Service with consequential monitoring,3.5903574592930307,1.054685935855303,2.5356715234377276
+hyperbolic,0.0,exponential,power,0.9,0.0,0.0,Delegation with routine review,1.1603584296386562,1.054685935855303,0.1056724937833533
+hyperbolic,0.0,exponential,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2307045347856882,1.054685935855303,0.1760185989303853
+hyperbolic,0.0,exponential,power,0.9,0.0,2.5,Service with consequential monitoring,1.2238705116307926,1.054685935855303,0.16918457577548973
+hyperbolic,0.0,exponential,power,0.9,0.0,2.5,Delegation with routine review,1.0177910381004833,1.054685935855303,-0.03689489775481958
+hyperbolic,0.0,exponential,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0199385386185704,1.054685935855303,-0.03474739723673248
+hyperbolic,0.0,exponential,power,0.9,0.75,0.0,Service with consequential monitoring,1.4289219637635655,0.2694778487991309,1.1594441149644346
+hyperbolic,0.0,exponential,power,0.9,0.75,0.0,Delegation with routine review,0.38220070751341323,0.2694778487991309,0.11272285871428234
+hyperbolic,0.0,exponential,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.48980658906452423,0.2694778487991309,0.22032874026539334
+hyperbolic,0.0,exponential,power,0.9,0.75,2.5,Service with consequential monitoring,0.48708672456701485,0.2694778487991309,0.21760887576788396
+hyperbolic,0.0,exponential,power,0.9,0.75,2.5,Delegation with routine review,0.33524163303915805,0.2694778487991309,0.06576378424002716
+hyperbolic,0.0,exponential,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.4059240886304297,0.2694778487991309,0.13644623983129883
+hyperbolic,0.0,exponential,bounded,0.0,0.0,0.0,Service with consequential monitoring,3.047057777574561,1.0537418820369664,1.9933158955375945
+hyperbolic,0.0,exponential,bounded,0.0,0.0,0.0,Delegation with routine review,1.1781495928871981,1.0537418820369664,0.12440771085023172
+hyperbolic,0.0,exponential,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3211973387753737,1.0537418820369664,0.2674554567384073
+hyperbolic,0.0,exponential,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2512311002349188,1.0537418820369664,0.1974892181979524
+hyperbolic,0.0,exponential,bounded,0.0,0.0,2.5,Delegation with routine review,1.0185970484987774,1.0537418820369664,-0.03514483353818898
+hyperbolic,0.0,exponential,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0222050555548916,1.0537418820369664,-0.03153682648207479
+hyperbolic,0.0,exponential,bounded,0.0,0.75,0.0,Service with consequential monitoring,1.5709545565681244,0.26916469106071894,1.3017898655074056
+hyperbolic,0.0,exponential,bounded,0.0,0.75,0.0,Delegation with routine review,0.41729494597454336,0.26916469106071894,0.14813025491382442
+hyperbolic,0.0,exponential,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.6811623313316267,0.26916469106071894,0.4119976402709078
+hyperbolic,0.0,exponential,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.6450902285805753,0.26916469106071894,0.37592553751985636
+hyperbolic,0.0,exponential,bounded,0.0,0.75,2.5,Delegation with routine review,0.3607821985334451,0.26916469106071894,0.09161750747272618
+hyperbolic,0.0,exponential,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5270125501358779,0.26916469106071894,0.25784785907515895
+hyperbolic,0.0,exponential,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.5722105972509155,1.053948381423793,1.5182622158271224
+hyperbolic,0.0,exponential,bounded,0.9,0.0,0.0,Delegation with routine review,1.154177513645221,1.053948381423793,0.10022913222142793
+hyperbolic,0.0,exponential,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2181239865736688,1.053948381423793,0.16417560514987573
+hyperbolic,0.0,exponential,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.212005089658261,1.053948381423793,0.15805670823446794
+hyperbolic,0.0,exponential,bounded,0.9,0.0,2.5,Delegation with routine review,1.0177122582352063,1.053948381423793,-0.03623612318858682
+hyperbolic,0.0,exponential,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0198396452353942,1.053948381423793,-0.034108736188398936
+hyperbolic,0.0,exponential,bounded,0.9,0.75,0.0,Service with consequential monitoring,1.0237109422973623,0.2692893997311964,0.7544215425661658
+hyperbolic,0.0,exponential,bounded,0.9,0.75,0.0,Delegation with routine review,0.3801648275599168,0.2692893997311964,0.1108754278287204
+hyperbolic,0.0,exponential,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.4847996721042613,0.2692893997311964,0.21551027237306486
+hyperbolic,0.0,exponential,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.4823644198221242,0.2692893997311964,0.21307502009092777
+hyperbolic,0.0,exponential,bounded,0.9,0.75,2.5,Delegation with routine review,0.33521568440167016,0.2692893997311964,0.06592628467047373
+hyperbolic,0.0,exponential,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.405884730174094,0.2692893997311964,0.13659533044289757
+hyperbolic,0.1,rational,power,0.0,0.0,0.0,Service with consequential monitoring,5.19276669646117,1.054473762668831,4.138292933792339
+hyperbolic,0.1,rational,power,0.0,0.0,0.0,Delegation with routine review,1.1864537581645225,1.054473762668831,0.1319799954956915
+hyperbolic,0.1,rational,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3492411725813542,1.054473762668831,0.29476740991252326
+hyperbolic,0.1,rational,power,0.0,0.0,2.5,Service with consequential monitoring,1.2680678451538183,1.054473762668831,0.21359408248498735
+hyperbolic,0.1,rational,power,0.0,0.0,2.5,Delegation with routine review,1.0186839149167408,1.054473762668831,-0.035789847752090154
+hyperbolic,0.1,rational,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0223290097805573,1.054473762668831,-0.032144752888273675
+hyperbolic,0.1,rational,power,0.0,0.75,0.0,Service with consequential monitoring,3.800616504231054,0.4236628895932236,3.3769536146378303
+hyperbolic,0.1,rational,power,0.0,0.75,0.0,Delegation with routine review,0.641640419052374,0.4236628895932236,0.2179775294591504
+hyperbolic,0.1,rational,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.8901050116160426,0.4236628895932236,0.466442122022819
+hyperbolic,0.1,rational,power,0.0,0.75,2.5,Service with consequential monitoring,0.9281063183641045,0.4236628895932236,0.5044434287708809
+hyperbolic,0.1,rational,power,0.0,0.75,2.5,Delegation with routine review,0.5509096073497822,0.4236628895932236,0.1272467177565586
+hyperbolic,0.1,rational,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.6744384870683835,0.4236628895932236,0.2507755974751599
+hyperbolic,0.1,rational,power,0.9,0.0,0.0,Service with consequential monitoring,3.5903574592930307,1.054685935855303,2.5356715234377276
+hyperbolic,0.1,rational,power,0.9,0.0,0.0,Delegation with routine review,1.1603584296386562,1.054685935855303,0.1056724937833533
+hyperbolic,0.1,rational,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2307045347856882,1.054685935855303,0.1760185989303853
+hyperbolic,0.1,rational,power,0.9,0.0,2.5,Service with consequential monitoring,1.2238705116307926,1.054685935855303,0.16918457577548973
+hyperbolic,0.1,rational,power,0.9,0.0,2.5,Delegation with routine review,1.0177910381004833,1.054685935855303,-0.03689489775481958
+hyperbolic,0.1,rational,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0199385386185704,1.054685935855303,-0.03474739723673248
+hyperbolic,0.1,rational,power,0.9,0.75,0.0,Service with consequential monitoring,2.3275307933608955,0.42407220980874744,1.903458583552148
+hyperbolic,0.1,rational,power,0.9,0.75,0.0,Delegation with routine review,0.6012727254053303,0.42407220980874744,0.17720051559658284
+hyperbolic,0.1,rational,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.7092810373702045,0.42407220980874744,0.2852088275614571
+hyperbolic,0.1,rational,power,0.9,0.75,2.5,Service with consequential monitoring,0.7934018646343739,0.42407220980874744,0.36932965482562646
+hyperbolic,0.1,rational,power,0.9,0.75,2.5,Delegation with routine review,0.527397376311016,0.42407220980874744,0.10332516650226858
+hyperbolic,0.1,rational,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.5878121387203673,0.42407220980874744,0.16373992891161987
+hyperbolic,0.1,rational,bounded,0.0,0.0,0.0,Service with consequential monitoring,3.047057777574561,1.0537418820369664,1.9933158955375945
+hyperbolic,0.1,rational,bounded,0.0,0.0,0.0,Delegation with routine review,1.1781495928871981,1.0537418820369664,0.12440771085023172
+hyperbolic,0.1,rational,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3211973387753737,1.0537418820369664,0.2674554567384073
+hyperbolic,0.1,rational,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2512311002349188,1.0537418820369664,0.1974892181979524
+hyperbolic,0.1,rational,bounded,0.0,0.0,2.5,Delegation with routine review,1.0185970484987774,1.0537418820369664,-0.03514483353818898
+hyperbolic,0.1,rational,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0222050555548916,1.0537418820369664,-0.03153682648207479
+hyperbolic,0.1,rational,bounded,0.0,0.75,0.0,Service with consequential monitoring,2.2301595191418144,0.4233688370768781,1.8067906820649364
+hyperbolic,0.1,rational,bounded,0.0,0.75,0.0,Delegation with routine review,0.637149482889244,0.4233688370768781,0.2137806458123659
+hyperbolic,0.1,rational,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.8716042739251866,0.4233688370768781,0.44823543684830847
+hyperbolic,0.1,rational,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.9157834056748234,0.4233688370768781,0.4924145685979453
+hyperbolic,0.1,rational,bounded,0.0,0.75,2.5,Delegation with routine review,0.5508626295350633,0.4233688370768781,0.12749379245818515
+hyperbolic,0.1,rational,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.6743567134909697,0.4233688370768781,0.2509878764140916
+hyperbolic,0.1,rational,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.5722105972509155,1.053948381423793,1.5182622158271224
+hyperbolic,0.1,rational,bounded,0.9,0.0,0.0,Delegation with routine review,1.154177513645221,1.053948381423793,0.10022913222142793
+hyperbolic,0.1,rational,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2181239865736688,1.053948381423793,0.16417560514987573
+hyperbolic,0.1,rational,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.212005089658261,1.053948381423793,0.15805670823446794
+hyperbolic,0.1,rational,bounded,0.9,0.0,2.5,Delegation with routine review,1.0177122582352063,1.053948381423793,-0.03623612318858682
+hyperbolic,0.1,rational,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0198396452353942,1.053948381423793,-0.034108736188398936
+hyperbolic,0.1,rational,bounded,0.9,0.75,0.0,Service with consequential monitoring,1.6674939584677435,0.42377565106363535,1.2437183074041083
+hyperbolic,0.1,rational,bounded,0.9,0.75,0.0,Delegation with routine review,0.598069907974141,0.42377565106363535,0.1742942569105056
+hyperbolic,0.1,rational,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.7020306015147286,0.42377565106363535,0.2782549504510933
+hyperbolic,0.1,rational,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.7857098352667113,0.42377565106363535,0.361934184203076
+hyperbolic,0.1,rational,bounded,0.9,0.75,2.5,Delegation with routine review,0.5273565542830182,0.42377565106363535,0.10358090321938285
+hyperbolic,0.1,rational,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.5877551443732875,0.42377565106363535,0.1639794933096521
+hyperbolic,0.1,exponential,power,0.0,0.0,0.0,Service with consequential monitoring,5.19276669646117,1.054473762668831,4.138292933792339
+hyperbolic,0.1,exponential,power,0.0,0.0,0.0,Delegation with routine review,1.1864537581645225,1.054473762668831,0.1319799954956915
+hyperbolic,0.1,exponential,power,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3492411725813542,1.054473762668831,0.29476740991252326
+hyperbolic,0.1,exponential,power,0.0,0.0,2.5,Service with consequential monitoring,1.2680678451538183,1.054473762668831,0.21359408248498735
+hyperbolic,0.1,exponential,power,0.0,0.0,2.5,Delegation with routine review,1.0186839149167408,1.054473762668831,-0.035789847752090154
+hyperbolic,0.1,exponential,power,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0223290097805573,1.054473762668831,-0.032144752888273675
+hyperbolic,0.1,exponential,power,0.0,0.75,0.0,Service with consequential monitoring,3.531008817153367,0.2789765257850939,3.2520322913682733
+hyperbolic,0.1,exponential,power,0.0,0.75,0.0,Delegation with routine review,0.48007339442862096,0.2789765257850939,0.20109686864352705
+hyperbolic,0.1,exponential,power,0.0,0.75,0.0,Service with monitoring but no added pressure,0.7783094310371494,0.2789765257850939,0.49933290525205554
+hyperbolic,0.1,exponential,power,0.0,0.75,2.5,Service with consequential monitoring,0.8622684213866616,0.2789765257850939,0.5832918956015677
+hyperbolic,0.1,exponential,power,0.0,0.75,2.5,Delegation with routine review,0.4121888792703389,0.2789765257850939,0.13321235348524502
+hyperbolic,0.1,exponential,power,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5897302321517326,0.2789765257850939,0.3107537063666387
+hyperbolic,0.1,exponential,power,0.9,0.0,0.0,Service with consequential monitoring,3.5903574592930307,1.054685935855303,2.5356715234377276
+hyperbolic,0.1,exponential,power,0.9,0.0,0.0,Delegation with routine review,1.1603584296386562,1.054685935855303,0.1056724937833533
+hyperbolic,0.1,exponential,power,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2307045347856882,1.054685935855303,0.1760185989303853
+hyperbolic,0.1,exponential,power,0.9,0.0,2.5,Service with consequential monitoring,1.2238705116307926,1.054685935855303,0.16918457577548973
+hyperbolic,0.1,exponential,power,0.9,0.0,2.5,Delegation with routine review,1.0177910381004833,1.054685935855303,-0.03689489775481958
+hyperbolic,0.1,exponential,power,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0199385386185704,1.054685935855303,-0.03474739723673248
+hyperbolic,0.1,exponential,power,0.9,0.75,0.0,Service with consequential monitoring,2.0110111390495318,0.2791867897785234,1.7318243492710084
+hyperbolic,0.1,exponential,power,0.9,0.75,0.0,Delegation with routine review,0.4344274668621964,0.2791867897785234,0.155240677083673
+hyperbolic,0.1,exponential,power,0.9,0.75,0.0,Service with monitoring but no added pressure,0.5596462703946219,0.2791867897785234,0.2804594806160985
+hyperbolic,0.1,exponential,power,0.9,0.75,2.5,Service with consequential monitoring,0.6855075739807831,0.2791867897785234,0.4063207842022597
+hyperbolic,0.1,exponential,power,0.9,0.75,2.5,Delegation with routine review,0.3810515537123549,0.2791867897785234,0.10186476393383148
+hyperbolic,0.1,exponential,power,0.9,0.75,2.5,Service with monitoring but no added pressure,0.4638032793703994,0.2791867897785234,0.184616489591876
+hyperbolic,0.1,exponential,bounded,0.0,0.0,0.0,Service with consequential monitoring,3.047057777574561,1.0537418820369664,1.9933158955375945
+hyperbolic,0.1,exponential,bounded,0.0,0.0,0.0,Delegation with routine review,1.1781495928871981,1.0537418820369664,0.12440771085023172
+hyperbolic,0.1,exponential,bounded,0.0,0.0,0.0,Service with monitoring but no added pressure,1.3211973387753737,1.0537418820369664,0.2674554567384073
+hyperbolic,0.1,exponential,bounded,0.0,0.0,2.5,Service with consequential monitoring,1.2512311002349188,1.0537418820369664,0.1974892181979524
+hyperbolic,0.1,exponential,bounded,0.0,0.0,2.5,Delegation with routine review,1.0185970484987774,1.0537418820369664,-0.03514483353818898
+hyperbolic,0.1,exponential,bounded,0.0,0.0,2.5,Service with monitoring but no added pressure,1.0222050555548916,1.0537418820369664,-0.03153682648207479
+hyperbolic,0.1,exponential,bounded,0.0,0.75,0.0,Service with consequential monitoring,2.07195672517385,0.27878289601146145,1.7931738291623884
+hyperbolic,0.1,exponential,bounded,0.0,0.75,0.0,Delegation with routine review,0.4767132897594354,0.27878289601146145,0.19793039374797394
+hyperbolic,0.1,exponential,bounded,0.0,0.75,0.0,Service with monitoring but no added pressure,0.7621323525598641,0.27878289601146145,0.48334945654840267
+hyperbolic,0.1,exponential,bounded,0.0,0.75,2.5,Service with consequential monitoring,0.850819670030027,0.27878289601146145,0.5720367740185656
+hyperbolic,0.1,exponential,bounded,0.0,0.75,2.5,Delegation with routine review,0.4121537306133883,0.27878289601146145,0.13337083460192684
+hyperbolic,0.1,exponential,bounded,0.0,0.75,2.5,Service with monitoring but no added pressure,0.5896587291878348,0.27878289601146145,0.31087583317637335
+hyperbolic,0.1,exponential,bounded,0.9,0.0,0.0,Service with consequential monitoring,2.5722105972509155,1.053948381423793,1.5182622158271224
+hyperbolic,0.1,exponential,bounded,0.9,0.0,0.0,Delegation with routine review,1.154177513645221,1.053948381423793,0.10022913222142793
+hyperbolic,0.1,exponential,bounded,0.9,0.0,0.0,Service with monitoring but no added pressure,1.2181239865736688,1.053948381423793,0.16417560514987573
+hyperbolic,0.1,exponential,bounded,0.9,0.0,2.5,Service with consequential monitoring,1.212005089658261,1.053948381423793,0.15805670823446794
+hyperbolic,0.1,exponential,bounded,0.9,0.0,2.5,Delegation with routine review,1.0177122582352063,1.053948381423793,-0.03623612318858682
+hyperbolic,0.1,exponential,bounded,0.9,0.0,2.5,Service with monitoring but no added pressure,1.0198396452353942,1.053948381423793,-0.034108736188398936
+hyperbolic,0.1,exponential,bounded,0.9,0.75,0.0,Service with consequential monitoring,1.4407323565134358,0.2789915511325722,1.1617408053808636
+hyperbolic,0.1,exponential,bounded,0.9,0.75,0.0,Delegation with routine review,0.43211338906577595,0.2789915511325722,0.15312183793320377
+hyperbolic,0.1,exponential,bounded,0.9,0.75,0.0,Service with monitoring but no added pressure,0.553925435955995,0.2789915511325722,0.2749338848234228
+hyperbolic,0.1,exponential,bounded,0.9,0.75,2.5,Service with consequential monitoring,0.6788615795284695,0.2789915511325722,0.3998700283958973
+hyperbolic,0.1,exponential,bounded,0.9,0.75,2.5,Delegation with routine review,0.38102205925922916,0.2789915511325722,0.10203050812665698
+hyperbolic,0.1,exponential,bounded,0.9,0.75,2.5,Service with monitoring but no added pressure,0.46375830893964454,0.2789915511325722,0.18476675780707236

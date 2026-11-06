@@ -1,0 +1,142 @@
+[
+  [
+    1,
+    "Common baseline patience",
+    "All arrangements share the same baseline psychological discount rate. Differences concern modeled effective temporal weighting, not assigned differences in intrinsic patience."
+  ],
+  [
+    2,
+    "A focal holder",
+    "The decision-maker is one holder allocating attention. Provider and manager choices are not solved separately, and outcomes are not population averages."
+  ],
+  [
+    3,
+    "Instrumental choice",
+    "The holder minimizes the specified recurring costs net of benefits. Habit, errors, and psychological switching costs are not separate mechanisms."
+  ],
+  [
+    4,
+    "Substantive engagement",
+    "Engagement jointly maintains competence and understanding. Relevant macroeconomic, monetary, institutional, custody, and protocol learning can qualify; community participation or conviction alone does not demonstrate learning."
+  ],
+  [
+    5,
+    "Monitoring and engagement",
+    "Financial review is a distinct activity and implies neither trading nor pressure to act. Social platforms can support either activity. Dual-purpose activity requires attribution without counting the same time twice."
+  ],
+  [
+    6,
+    "A limited resource budget",
+    "Engagement and monitoring share a fixed attention budget. Unused resources retain outside value. A larger position does not automatically expand the budget."
+  ],
+  [
+    7,
+    "Substitution and bounded complementarity",
+    "The core has competing attention uses. A tested variant lowers joint effort costs when both engagement and monitoring occur. It can increase engagement in response to monitoring incentives when attention is slack; a binding budget still forces a tradeoff."
+  ],
+  [
+    8,
+    "Smooth and strictly convex choice",
+    "Positive own activity costs and complementarity below the stated bound yield one global optimum, including activity and budget boundaries. Fixed entry costs and multiple equilibria are absent."
+  ],
+  [
+    9,
+    "Independent practical benefits",
+    "Engagement reduces separately specified operational and interpretation mistakes and supports readiness to exercise available rights. Selling early is not intrinsically an error."
+  ],
+  [
+    10,
+    "Conditional stake benefits",
+    "Proportional payoff growth remains one benchmark. Zero-growth and subproportional alternatives share a common comparison point. Position value, Bitcoin quantity, and wealth share are distinct; the model does not separately identify them."
+  ],
+  [
+    11,
+    "Binary transfer authority",
+    "Independent authority either permits transfer without the relevant intermediary's authorization or is absent. The variable is not a self-custody portfolio fraction."
+  ],
+  [
+    12,
+    "Control creates an engagement payoff",
+    "Independent authority increases the practical return to competence. It does not enter the discount-rate equation directly."
+  ],
+  [
+    13,
+    "Operational assistance and pressure buffering",
+    "Support reduces a specified operational burden. Its separate pressure-buffer productivity is varied from zero upward. Fees, provider misconduct, and new counterparty failure risks remain outside the support function; assistance does not establish temporal benefits."
+  ],
+  [
+    14,
+    "No delegated commitment substitute",
+    "Support cannot replenish the holder's commitment stock or reproduce independent transfer. Optional education increases the productivity of actual engagement and is zero in the reference cases."
+  ],
+  [
+    15,
+    "Financial review has instrumental rewards",
+    "Monitoring offers diminishing benefits. Its payoff may grow with position value under a specified elasticity. This is not a preference for immediate consumption and is not estimated from data."
+  ],
+  [
+    16,
+    "Pressure requires an explicit connection",
+    "Monitoring creates additional decision-relevant pressure only through the arrangement loading lambda. Routine review can have zero loading. External obligations are possible but zero in the reference cases."
+  ],
+  [
+    17,
+    "A conditional capacity buffer",
+    "Holder engagement contributes to the capacity buffer. Provider support contributes only when its assumed buffering productivity is positive. The zero-buffer case retains operational assistance. Capacity does not measure control rights or reproduce independent exit."
+  ],
+  [
+    18,
+    "Maintained understanding depreciates",
+    "Actual engagement replenishes a stock that otherwise erodes. Pressure can accelerate erosion. Existing understanding decays gradually; it does not vanish on a custodial transfer."
+  ],
+  [
+    19,
+    "Commitment weighting is a hypothesis",
+    "Greater maintained commitment lowers the effective rate only when its assumed strength kappa is positive. Strengths of zero, 0.25, 0.5, and 0.75 are compared. The old 25% asymptote is an illustrative boundary, not a finding."
+  ],
+  [
+    20,
+    "Pressure weighting is a hypothesis",
+    "Pressure raises the effective rate through a specified pressure/capacity function when beta is positive. The reference uses a squared ratio. Operational capacity can reduce the effect."
+  ],
+  [
+    21,
+    "Two interacting temporal paths",
+    "Commitment and pressure multipliers combine multiplicatively. Pressure also erodes commitment. Removing direct pressure weighting alone leaves that indirect path; both removals are reported separately."
+  ],
+  [
+    22,
+    "No feedback from rates to effort",
+    "Effective rates do not enter the attention objective. The model does not solve lifetime consumption or an intertemporal optimal-control problem."
+  ],
+  [
+    23,
+    "Stationary comparisons",
+    "Main outputs compare maintained steady states. Finite stock-adjustment lags do not establish permanent hysteresis or irreversible institutional lock-in."
+  ],
+  [
+    24,
+    "Arrangements remain given",
+    "Portfolio splitting, wealth-dependent switching, entry into financialization, and changing worldviews remain outside the core. They are interpretation limits rather than new decision layers."
+  ],
+  [
+    25,
+    "Ideal types and observable behavior differ",
+    "Orientation means priorities and admissibility criteria. Holding duration, no trading, visible wallet size, and a custodial transfer do not identify it. Mixed arrangements can coexist within one person's portfolio."
+  ],
+  [
+    26,
+    "Comparable primitives",
+    "Reference cases share the attention budget and common technology. Differences in demographics, total wealth, risk preferences, prior knowledge, or selection are not estimated."
+  ],
+  [
+    27,
+    "Illustrative numbers",
+    "Coefficients are uncalibrated and rates are normalized multiples of a common baseline. Scenario counts do not represent frequencies or probabilities in the Bitcoin population."
+  ],
+  [
+    28,
+    "Bounded scope",
+    "Prices, returns, leverage, liquidation, consumption, aggregate concentration, provider strategy, and welfare are not endogenous. The model identifies conditional institutional mechanisms and cannot establish a universal empirical effect."
+  ]
+]

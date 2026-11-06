@@ -1,0 +1,143 @@
+{
+  "version": "0.5",
+  "review_date": "2026-10-30",
+  "technology": {
+    "budget": 1.0,
+    "opportunity_value": 1.0,
+    "engagement_cost": 0.5,
+    "monitoring_cost": 0.5,
+    "operational_loss": 0.7,
+    "interpretation_loss": 0.2,
+    "exit_readiness_value": 0.6,
+    "engagement_response": 2.0,
+    "interpretation_response": 2.0,
+    "support_response": 1.0,
+    "base_monitoring_reward": 0.9,
+    "holder_capacity_productivity": 2.5,
+    "support_capacity_productivity": 2.5,
+    "anchor_productivity": 1.5,
+    "anchor_decay": 0.2,
+    "turnover_decay": 0.1,
+    "ambient_turnover": 0.5,
+    "monitoring_turnover": 1.5,
+    "commitment_strength": 0.75,
+    "pressure_strength": 1.0,
+    "benefit_elasticity": 1.0,
+    "benefit_reference_stake": 2.0,
+    "benefit_scale": 1.0,
+    "anchor_scale": 1.0,
+    "salience_offset": 0.5,
+    "salience_power": 2.0,
+    "salience_cap": 4.0,
+    "activity_complementarity": 0.0
+  },
+  "arrangements": [
+    {
+      "name": "Engaged independent holding",
+      "operational_support": 0.0,
+      "independent_transfer": true,
+      "monitoring_incentive": 0.0,
+      "engagement_friction": 1.0,
+      "compulsory_turnover": 0.0,
+      "education_complement": 0.0,
+      "monitoring_elasticity": 1.0,
+      "pressure_loading": 0.0
+    },
+    {
+      "name": "Service with consequential monitoring",
+      "operational_support": 1.0,
+      "independent_transfer": false,
+      "monitoring_incentive": 0.8,
+      "engagement_friction": 1.0,
+      "compulsory_turnover": 0.0,
+      "education_complement": 0.0,
+      "monitoring_elasticity": 1.0,
+      "pressure_loading": 1.0
+    },
+    {
+      "name": "Delegation with routine review",
+      "operational_support": 1.0,
+      "independent_transfer": false,
+      "monitoring_incentive": 0.0,
+      "engagement_friction": 1.0,
+      "compulsory_turnover": 0.0,
+      "education_complement": 0.0,
+      "monitoring_elasticity": 1.0,
+      "pressure_loading": 0.0
+    },
+    {
+      "name": "Independent control with consequential monitoring",
+      "operational_support": 0.0,
+      "independent_transfer": true,
+      "monitoring_incentive": 0.8,
+      "engagement_friction": 1.0,
+      "compulsory_turnover": 0.0,
+      "education_complement": 0.0,
+      "monitoring_elasticity": 1.0,
+      "pressure_loading": 1.0
+    },
+    {
+      "name": "Independent holding with operational support",
+      "operational_support": 1.0,
+      "independent_transfer": true,
+      "monitoring_incentive": 0.0,
+      "engagement_friction": 1.0,
+      "compulsory_turnover": 0.0,
+      "education_complement": 0.0,
+      "monitoring_elasticity": 1.0,
+      "pressure_loading": 0.0
+    },
+    {
+      "name": "Service with monitoring but no added pressure",
+      "operational_support": 1.0,
+      "independent_transfer": false,
+      "monitoring_incentive": 0.8,
+      "engagement_friction": 1.0,
+      "compulsory_turnover": 0.0,
+      "education_complement": 0.0,
+      "monitoring_elasticity": 1.0,
+      "pressure_loading": 0.0
+    }
+  ],
+  "commitment_strengths": [
+    0,
+    0.25,
+    0.5,
+    0.75
+  ],
+  "complementarities": [
+    0,
+    0.5,
+    0.9
+  ],
+  "support_capacity_values": [
+    0,
+    2.5,
+    10
+  ],
+  "factorial_factors": {
+    "control_loss": [
+      0,
+      1
+    ],
+    "operational_support": [
+      0,
+      1
+    ],
+    "monitoring_incentive": [
+      0,
+      0.8
+    ],
+    "pressure_loading": [
+      0,
+      1
+    ]
+  },
+  "support_sweep": [
+    0,
+    10,
+    0.1
+  ],
+  "reference_stake": 2.0,
+  "interpretation": "Uncalibrated normalized scenarios. Stress ranges are not empirically plausible bounds; counts are not probabilities."
+}

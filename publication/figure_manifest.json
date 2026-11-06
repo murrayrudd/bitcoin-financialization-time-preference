@@ -1,0 +1,82 @@
+{
+  "figure_count": 4,
+  "png_dpi": 600,
+  "formats": [
+    "PNG",
+    "SVG",
+    "PDF"
+  ],
+  "model_version": "0.5",
+  "model_executed": false,
+  "source_data": [
+    {
+      "file": "data/complementarity_paths.csv",
+      "sha256": "f35b2901aeb9fdca55e3018b587049d90bdf3b1d606a8e7716d84e43ef2dfe37"
+    },
+    {
+      "file": "data/four_factor_shapley.csv",
+      "sha256": "5a7e48bd12e313bdbd1ba5315315d603bc1876232f795d1c90434ddb498b627b"
+    },
+    {
+      "file": "data/support_capacity_sweep.csv",
+      "sha256": "826c14e17e7ccd9c4ecaa925f8df453243eca1b4b3e0158955ddfeda4e101699"
+    }
+  ],
+  "reference_contributions": {
+    "control_loss": 0.1297557042874538,
+    "monitoring_incentive": 0.1508459094929305,
+    "pressure_loading": 0.1052715072076854,
+    "operational_support": -0.0152531974288761
+  },
+  "reference_total_gap": 0.3706199235591936,
+  "files": [
+    {
+      "file": "png/Figure_01_Mechanisms.png",
+      "sha256": "1303b0eccf78e88b9ef1307bc20418c91292ec8c2f0786df4ddb743102c2c7e2"
+    },
+    {
+      "file": "png/Figure_02_Contributions.png",
+      "sha256": "8e184681ce0aebc5abf4a0a8f32f96cb227b3290ffe4b65130a4e4df1cdb8b3a"
+    },
+    {
+      "file": "png/Figure_03_Pressure_Relief.png",
+      "sha256": "175064bf6513bd61ce03956baccca309a1f51fa38999ab6796a6a79399a91c14"
+    },
+    {
+      "file": "png/Figure_04_Complementarity.png",
+      "sha256": "beb86737e4d2241c6edb7c314669f4b4f31cf09fcb80b56d68c505a0cd36cbb4"
+    },
+    {
+      "file": "svg/Figure_01_Mechanisms.svg",
+      "sha256": "3440561216ca22b39e9b608533ae0e77dcaaa07569f907b483e8458cfb241a41"
+    },
+    {
+      "file": "svg/Figure_02_Contributions.svg",
+      "sha256": "77272e22a8970ba802e8821cc5c565d74f721078c0334a993124e22aeb16198a"
+    },
+    {
+      "file": "svg/Figure_03_Pressure_Relief.svg",
+      "sha256": "30569aa22711d82bdc688793238d99cf38767214f773ee9c78a0073e80a0de2a"
+    },
+    {
+      "file": "svg/Figure_04_Complementarity.svg",
+      "sha256": "435c21a42aca1b4c11e1ad5ad57c499f34a9d382d50c254de8382c174765cced"
+    },
+    {
+      "file": "pdf/Figure_01_Mechanisms.pdf",
+      "sha256": "9717c87d03ff7f70aba4320628c649f5b86e56a73f3266d1bb9ca4870d6bb18a"
+    },
+    {
+      "file": "pdf/Figure_02_Contributions.pdf",
+      "sha256": "605f2dec125d34af031bcf27819877212dca599a0822fe645714460c62c6f619"
+    },
+    {
+      "file": "pdf/Figure_03_Pressure_Relief.pdf",
+      "sha256": "407cf76ec09adeb0161eee63e9f457e49cde6ba326c83c1fe59f79dd90dfd692"
+    },
+    {
+      "file": "pdf/Figure_04_Complementarity.pdf",
+      "sha256": "b1089c69517d341e0e9020ed737ed01b84cc428e4133ef93fd6304e7599a49c3"
+    }
+  ]
+}

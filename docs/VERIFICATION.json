@@ -1,0 +1,124 @@
+{
+  "full_regeneration": true,
+  "result_tables_compared": 16,
+  "model_verification": {
+    "all_passed": true,
+    "check_count": 19,
+    "checks": [
+      {
+        "name": "Independent constrained optimizer including complementarity",
+        "passed": true,
+        "scenarios": 160,
+        "maximum_objective_error": 3.5864644587491057e-12,
+        "maximum_allocation_error": 5.270291331127552e-07
+      },
+      {
+        "name": "Feasibility and global optimality",
+        "passed": true,
+        "maximum_kkt": 3.090860900556436e-13,
+        "minimum_hessian_eigenvalue": 0.4857572261618588,
+        "negative_cross_curvature_cases": 38
+      },
+      {
+        "name": "Objective gradient and Hessian finite differences",
+        "passed": true,
+        "locations": 160,
+        "maximum_gradient_error": 1.4311405394096255e-09,
+        "maximum_hessian_error": 1.0248459858530623e-08
+      },
+      {
+        "name": "Stake derivative agreement",
+        "passed": true,
+        "comparisons": 160,
+        "maximum_error": 1.8622773723109276e-07,
+        "regimes": [
+          "activity corner",
+          "binding budget",
+          "interior"
+        ]
+      },
+      {
+        "name": "Monitoring incentive derivative agreement",
+        "passed": true,
+        "comparisons": 160,
+        "maximum_error": 2.7328950213956205e-09
+      },
+      {
+        "name": "Exact version 0.4 nesting",
+        "passed": true,
+        "scenarios": 126,
+        "maximum_error": 0.0
+      },
+      {
+        "name": "Previously delivered CSV reproduced",
+        "passed": true,
+        "comparisons": 18,
+        "maximum_error": 0.0
+      },
+      {
+        "name": "Complementarity can raise engagement when attention is slack",
+        "passed": true,
+        "h_reward": 0.11549273207958403,
+        "n_reward": 0.6164689326408493,
+        "unused_budget": 1.4244367936102251
+      },
+      {
+        "name": "A binding budget retains the activity tradeoff",
+        "passed": true,
+        "h_reward": -0.12053357604199696
+      },
+      {
+        "name": "Zero buffering retains operational assistance",
+        "passed": true
+      },
+      {
+        "name": "Exact commitment ordering and crossing",
+        "passed": true,
+        "affine_comparisons": 96,
+        "roots": 14,
+        "maximum_affine_error": 4.440892098500626e-16,
+        "maximum_root_error": 1.1102230246251565e-16
+      },
+      {
+        "name": "Exact support capacity crossing",
+        "passed": true,
+        "roots": 7,
+        "maximum_error": 1.1102230246251565e-16
+      },
+      {
+        "name": "Four factor attribution sums to the total gap",
+        "passed": true,
+        "decompositions": 27,
+        "maximum_error": 4.440892098500626e-16
+      },
+      {
+        "name": "Pressure loading leaves choice unchanged",
+        "passed": true
+      },
+      {
+        "name": "Support and joint efficiency do not create commitment without engagement",
+        "passed": true
+      },
+      {
+        "name": "No temporal links gives the common baseline",
+        "passed": true
+      },
+      {
+        "name": "Removing both pressure paths removes pressure effects",
+        "passed": true
+      },
+      {
+        "name": "Arrangement names have no causal role",
+        "passed": true
+      },
+      {
+        "name": "Stress grid satisfies optimality",
+        "passed": true,
+        "maximum_kkt": 8.237854842718662e-14,
+        "cases": 648
+      }
+    ]
+  },
+  "figure_exports_rebuilt": 12,
+  "all_passed": true
+}

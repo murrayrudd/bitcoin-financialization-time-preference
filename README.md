@@ -2,7 +2,7 @@
 
 Self-contained model, saved results, and replication materials for Murray A. Rudd's **Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience**.
 
-**Model version 0.5 · Replication package 0.5.1.**
+**[Read the working paper on SSRN](https://doi.org/10.2139/ssrn.7682178)** · Model version **0.5** · Replication package **0.5.1**.
 
 The study asks whether financialization can raise effective time preference relative to engaged independent holding when the same holder has the same Bitcoin exposure and baseline psychological patience. Institutional arrangements differ in independent control, operational assistance, monitoring incentives, and the consequences of financial review. Those features change attention allocation, maintained understanding, and decision pressure.
 
@@ -52,9 +52,9 @@ The full command uses a temporary copy, reruns the experiments and 19 numerical 
 
 ## Research basis
 
-**Rudd, M. A. (2026).** *Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience*. Working paper, 2026.
+**Rudd, M. A. (2026).** *Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience*. SSRN working paper. [10.2139/ssrn.7682178](https://doi.org/10.2139/ssrn.7682178).
 
-An SSRN link can be added when available. The manuscript and third-party papers are not included.
+The manuscript and third-party papers are not included.
 
 ## Citation
 
@@ -65,11 +65,13 @@ Please cite the accompanying paper and identify **model version 0.5**, **replica
   author = {Rudd, Murray A.},
   title = {Same Bitcoin, Different Time Horizons: Financialization and the Erosion of Patience},
   year = {2026},
-  note = {Working paper; model version 0.5}
+  note = {SSRN working paper},
+  doi = {10.2139/ssrn.7682178},
+  url = {https://doi.org/10.2139/ssrn.7682178}
 }
 ~~~
 
-[CITATION.cff](CITATION.cff) supplies machine-readable software metadata and the preferred paper citation through GitHub's **Cite this repository** option. This package has no assigned DOI.
+[CITATION.cff](CITATION.cff) supplies machine-readable software metadata and the preferred paper citation through GitHub's **Cite this repository** option.
 
 ## License
 

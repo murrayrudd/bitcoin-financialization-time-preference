@@ -14,8 +14,8 @@
     },
     {
       "path": "CITATION.cff",
-      "size_bytes": 873,
-      "sha256": "d93b17af10fdebdd02e4f131f963d4152a1e0a7398f4cc9e0c4c78bbfc912e3d"
+      "size_bytes": 895,
+      "sha256": "601c61a7a903b2ac5cbb86df7da013122bebc94baa9412d9b2202566b44938d7"
     },
     {
       "path": "LICENSE.md",
@@ -29,8 +29,8 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 5502,
-      "sha256": "f76cf70d091e5a2f9e706b97ff6785587d858bbc4f2dace2a13aef9d494933b2"
+      "size_bytes": 5635,
+      "sha256": "6af369a7ad02f77b1474a2e34635e5fd88ecf43f7e410fa3e967558d818edf0d"
     },
     {
       "path": "docs/MANUSCRIPT_MAP.md",
@@ -49,8 +49,8 @@
     },
     {
       "path": "docs/UPLOAD.md",
-      "size_bytes": 980,
-      "sha256": "8fa0f45bcbfe956123d521e12e608c4a6239814a02190d6cdb91e5197354b8c6"
+      "size_bytes": 944,
+      "sha256": "da7f90c7f7fc2302a1fb9ab77e141f4176fd34273f670f37d4a1921cf314f153"
     },
     {
       "path": "docs/VERIFICATION.json",
